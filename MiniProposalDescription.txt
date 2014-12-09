@@ -1,0 +1,24 @@
+Development of electron beam AIMS for high spatial resolution measurement of high-Z material migration
+
+
+Energy dispersive X-ray (EDX) spectroscopy with electron beams is a common and versatile tool used in electron microscopy to determine the composition of a material surface.  EDX is quantitative and highly sensitive to high-Z elements.  Accelerator-based In-situ Materials Surveillance (AIMS) has recently been demonstrated for quantifying low-Z elements using ion beams.
+
+Many aspects of EDX can be combined with the ion beam AIMS technique to develop a new in-situ diagnostic for tokamak plasma facing components (PFC) that would be complementary to ion beam AIMS.
+
+An electron beam AIMS diagnostic would use a high energy electron beam injected into the tokamak to induce X-ray emission.  Si-Li detectors would be used to make spectroscopic X-ray measurements to quantify high-Z materials on PFCs.  The toroidal and vertical field coils would be used for beam steering to provide macroscopic spatial resolution.
+
+Complementary diagnostic for ion beam AIMS:
+Ion beams allow for detection of low-Z elements on material surfaces whereas electron beams can provide detection high-Z elements.
+
+Advantages:
+1) Highly sensitive to molybdenum and tungsten.
+2) X-ray emission cross sections are much larger than gamma and neutron cross sections.
+3) With modern detectors, elements with Z > 5 can be detected.
+4) High energy electron accelerators are much simpler and less expensive compared to ion accelerators.
+5) Much lower magnetic fields are required for electron beams because of their low mass.
+6) Electron beams < 5 MeV electron beams can achieve comparable beam penetration depths to ion beam AIMS (~10 micro).
+7) Relativistic electron beams are easier to focus and transport than ion beams (space charge effects are less significant and self B-fields confine the beam).
+
+Disadvantages:
+1) X-rays have shorter mean free paths in materials than gamma rays and neutrons used for ion beam AIMS.  Line-of-sight between the beam target and the detector is therefore necessary.  Retractable detectors may be necessary to provide sufficient PFC accessibility.
+
