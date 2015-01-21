@@ -7,4 +7,5 @@
 *.blg
 *.spl
 *~
+*.synctex.gz
 ElectronBeamAIMS.pdf
